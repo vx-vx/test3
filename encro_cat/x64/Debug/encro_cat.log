@@ -1,0 +1,73 @@
+﻿  encr_algo.cpp
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\algo\encr_algo.cpp(11,13): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\algo\encr_algo.cpp(17,37): warning C4267: "=": Konvertierung von "size_t" nach "char", Datenverlust möglich
+  filesystem.cpp
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\filesystem.cpp(24,13): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  injection.cpp
+  lodepng.cpp
+  main.cpp
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\hwid.h(77,13): warning C4101: "reg3": Unreferenzierte lokale Variable
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\hwid.h(76,13): warning C4101: "reg2": Unreferenzierte lokale Variable
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(76,4): warning C4566: Das durch den universellen Zeichennamen "\u263B" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(77,4): warning C4566: Das durch den universellen Zeichennamen "\u2665" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(78,4): warning C4566: Das durch den universellen Zeichennamen "\u2666" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(79,4): warning C4566: Das durch den universellen Zeichennamen "\u2663" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(80,4): warning C4566: Das durch den universellen Zeichennamen "\u2660" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(82,4): warning C4566: Das durch den universellen Zeichennamen "\u2642" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(83,4): warning C4566: Das durch den universellen Zeichennamen "\u2640" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(84,4): warning C4566: Das durch den universellen Zeichennamen "\u266B" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(85,4): warning C4566: Das durch den universellen Zeichennamen "\u263C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(86,4): warning C4566: Das durch den universellen Zeichennamen "\u25BA" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(87,4): warning C4566: Das durch den universellen Zeichennamen "\u25C4" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(88,4): warning C4566: Das durch den universellen Zeichennamen "\u2195" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(89,4): warning C4566: Das durch den universellen Zeichennamen "\u203C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(92,4): warning C4566: Das durch den universellen Zeichennamen "\u25AC" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(93,4): warning C4566: Das durch den universellen Zeichennamen "\u21A8" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(94,4): warning C4566: Das durch den universellen Zeichennamen "\u2191" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(95,4): warning C4566: Das durch den universellen Zeichennamen "\u2193" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(96,4): warning C4566: Das durch den universellen Zeichennamen "\u2192" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(97,4): warning C4566: Das durch den universellen Zeichennamen "\u221F" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(98,4): warning C4566: Das durch den universellen Zeichennamen "\u2194" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(99,4): warning C4566: Das durch den universellen Zeichennamen "\u25B2" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(100,4): warning C4566: Das durch den universellen Zeichennamen "\u25BC" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(196,4): warning C4566: Das durch den universellen Zeichennamen "\u2302" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(245,4): warning C4566: Das durch den universellen Zeichennamen "\u2591" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(246,4): warning C4566: Das durch den universellen Zeichennamen "\u2592" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(247,4): warning C4566: Das durch den universellen Zeichennamen "\u2593" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(248,4): warning C4566: Das durch den universellen Zeichennamen "\u2502" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(249,4): warning C4566: Das durch den universellen Zeichennamen "\u2524" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(254,4): warning C4566: Das durch den universellen Zeichennamen "\u2563" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(255,4): warning C4566: Das durch den universellen Zeichennamen "\u2551" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(256,4): warning C4566: Das durch den universellen Zeichennamen "\u2557" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(257,4): warning C4566: Das durch den universellen Zeichennamen "\u255D" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(260,4): warning C4566: Das durch den universellen Zeichennamen "\u2510" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(261,4): warning C4566: Das durch den universellen Zeichennamen "\u2514" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(262,4): warning C4566: Das durch den universellen Zeichennamen "\u2534" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(263,4): warning C4566: Das durch den universellen Zeichennamen "\u252C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(264,4): warning C4566: Das durch den universellen Zeichennamen "\u251C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(265,4): warning C4566: Das durch den universellen Zeichennamen "\u2500" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(266,4): warning C4566: Das durch den universellen Zeichennamen "\u253C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(269,4): warning C4566: Das durch den universellen Zeichennamen "\u255A" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(270,4): warning C4566: Das durch den universellen Zeichennamen "\u2554" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(271,4): warning C4566: Das durch den universellen Zeichennamen "\u2569" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(272,4): warning C4566: Das durch den universellen Zeichennamen "\u2566" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(273,4): warning C4566: Das durch den universellen Zeichennamen "\u2560" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(274,4): warning C4566: Das durch den universellen Zeichennamen "\u2550" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(275,4): warning C4566: Das durch den universellen Zeichennamen "\u256C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(282,4): warning C4566: Das durch den universellen Zeichennamen "\u0131" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(286,4): warning C4566: Das durch den universellen Zeichennamen "\u2518" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(287,4): warning C4566: Das durch den universellen Zeichennamen "\u250C" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(288,4): warning C4566: Das durch den universellen Zeichennamen "\u2588" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(289,4): warning C4566: Das durch den universellen Zeichennamen "\u2584" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(292,4): warning C4566: Das durch den universellen Zeichennamen "\u2580" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(311,4): warning C4566: Das durch den universellen Zeichennamen "\u2017" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(323,4): warning C4566: Das durch den universellen Zeichennamen "\u25A0" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(333,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(343,19): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(361,16): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(495,19): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(514,82): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(509,7): warning C4101: "len": Unreferenzierte lokale Variable
+  Code wird generiert...
+C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\src\main.cpp(577,1): warning C4715: "catRandomizer": Nicht alle Codepfade geben einen Wert zurück.
+  encro_cat.vcxproj -> C:\Users\vxvx\source\repos\vx-vx\encro_cat\encro_cat\DebugRelease\encro_cat.exe
